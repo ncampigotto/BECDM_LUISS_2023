@@ -45,7 +45,7 @@ A detailed outline of the course is given below. Lectures will combine theory an
 
 ## Textbook
 
-+  Edward Cartwright (2018), Behavioral Economics, 3rd edition, Routledge
++  Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), 3rd edition, Routledge
 +  Additional required readings are listed in the course outline
 
 
@@ -154,8 +154,8 @@ Any changes to this outline will be announced in class. Readings marked with a c
         -   °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
 *   Social preferences and social comparisons (weeks 8 and 9)       
         -   Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
-        -   °Gneezy and Rustichini (2000), “Pay enough or don’t pay at all”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
-        -   °Meyer and Tripodi (2021), “Image concerns in pledges to give blood: Evidence from a field experiment”, *Journal of Economic Psychology*, vol. 87, no. 102434     
+        -   °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
+        -   °Meyer and Tripodi (2021), “[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)”, *Journal of Economic Psychology*, vol. 87, no. 102434     
 *   Nudges (week 11)        
         -   Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)       
         -   °Readings TBA     
