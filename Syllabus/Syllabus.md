@@ -151,7 +151,7 @@ Any changes to this outline will be announced in class. Readings marked with a c
         -   Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)        
 *   Social interactions (week 7)        
         -   Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)      
-        -   °Balafoutas, Nikiforakis and Rockenbach (2014), “Direct and indirect punishment among strangers in the field”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
+        -   °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
 *   Social preferences and social comparisons (weeks 8 and 9)       
         -   Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
         -   °Gneezy and Rustichini (2000), “Pay enough or don’t pay at all”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
