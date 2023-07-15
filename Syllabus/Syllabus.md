@@ -113,9 +113,9 @@ A tutorial will be given in class to help you become familiar with Stata.
 
 Each group must choose a research paper to present. Each presentation should be roughly 10 minutes long and should outline the research questions and objectives of the study, the experimental design, and the results.
 
-The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Note that these readings will **not** be assessed in the final exam.
+The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. Note that these readings will **not** be assessed in the final exam.
 
-The presentation can be given by a single member of the group, by some of them, or by all of them, depending on what group members decide among themselves. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. 
+The presentation can be given by a single member of the group, by some of them, or by all of them, depending on what group members decide among themselves. 
 
 |       | **Paper**        | 
 |:------|:------------------|
@@ -143,7 +143,7 @@ Any changes to this outline will be announced in class. Readings marked with a c
         -   Cartwright, Chapter 1 (Sections TBA)      
 *   Simple heuristics for complex choices (week 2)      
         -   Cartwright, Chapter 2 (Sections TBA)      
-        -   °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206       
+        -   °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206       
 *   Simple heuristics for complex choices (week 3)      
         -   Cartwright, Chapter 2 (Sections TBA)      
         -   °Allcott, Gentzkow and Song (2022), "Digital addiction", *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
