@@ -117,7 +117,7 @@ The list of papers available for presentation is given below. Papers are assigne
 
 The presentation can be given by a single member of the group, by some of them, or by all of them, depending on what group members decide among themselves.
 
-|       | ** Paper**        | 
+|       | **Paper**        | 
 |:------|:------------------|
 | 1     | First paper       |
 | 2     | Second paper      |
@@ -131,32 +131,32 @@ Any changes to this outline will be announced in class. Readings marked with a c
 ### Module 1 (Giaccherini)
 
 *   Introduction to behavioral economics (week 1)       
-        - Cartwright, Chapter 1 (Sections TBA)      
+        -   Cartwright, Chapter 1 (Sections TBA)      
 *   Simple heuristics for complex choices (week 2)      
-        - Cartwright, Chapter 2 (Sections TBA)      
-        - °Harrison and List (2004), “Field experiments”, *Journal of Economic Literature*, vol. 42, no. 4, pp. 1009-1055       
+        -   Cartwright, Chapter 2 (Sections TBA)      
+        -   °Harrison and List (2004), “Field experiments”, *Journal of Economic Literature*, vol. 42, no. 4, pp. 1009-1055       
 *   Simple heuristics for complex choices (week 3)      
-        - Cartwright, Chapter 2 (Sections TBA)      
-        - °Allcott, Gentzkow and Song (2022), “Digital addiction”, *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
+        -   Cartwright, Chapter 2 (Sections TBA)      
+        -   °Allcott, Gentzkow and Song (2022), “Digital addiction”, *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
 *   Choices with risk (week 4)      
-        - Cartwright, Chapter 3 (Sections TBA)      
+        -   Cartwright, Chapter 3 (Sections TBA)      
 *   Intertemporal Choices (week 5)      
-        - Cartwright, Chapter 4 (Sections TBA)      
-        - Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “Toward an understanding of the development of time preferences: Evidence from field experiments”, *Journal of Public Economics*, vol. 117, no. 104039        
+        -   Cartwright, Chapter 4 (Sections TBA)      
+        -   Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “Toward an understanding of the development of time preferences: Evidence from field experiments”, *Journal of Public Economics*, vol. 117, no. 104039        
 *   Student presentations (week 6)      
 
 ### Module 2 (Campigotto)
 
 *   Learning from new information (week 6)      
-        - Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)        
+        -   Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)        
 *   Social interactions (week 7)        
-        - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)      
-        - °Balafoutas, Nikiforakis and Rockenbach (2014), “Direct and indirect punishment among strangers in the field”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
+        -   Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)      
+        -   °Balafoutas, Nikiforakis and Rockenbach (2014), “Direct and indirect punishment among strangers in the field”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
 *   Social preferences and social comparisons (weeks 8 and 9)       
-        - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
-        - °Gneezy and Rustichini (2000), “Pay enough or don’t pay at all”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
-        - °Meyer and Tripodi (2021), “Image concerns in pledges to give blood: Evidence from a field experiment”, *Journal of Economic Psychology*, vol. 87, no. 102434     
+        -   Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
+        -   °Gneezy and Rustichini (2000), “Pay enough or don’t pay at all”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
+        -   °Meyer and Tripodi (2021), “Image concerns in pledges to give blood: Evidence from a field experiment”, *Journal of Economic Psychology*, vol. 87, no. 102434     
 *   Nudges (week 11)        
-        - Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)       
-        - °Readings TBA     
+        -   Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)       
+        -   °Readings TBA     
 *   Student presentations (week 12)
