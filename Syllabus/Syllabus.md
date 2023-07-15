@@ -111,7 +111,7 @@ A tutorial will be given in class to help you become familiar with Stata.
 
 ## Student presentation
 
-Each group must choose a paper to present to the class. Each presentation will last 10 minutes and should outline the research questions and objectives of the study, the experimental design, and the results.
+Each group must choose a research paper to present. Each presentation should be roughly 10 minutes long and should outline the research questions and objectives of the study, the experimental design, and the results.
 
 The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Note that these readings will **not** be assessed in the final exam.
 
@@ -119,9 +119,13 @@ The presentation can be given by a single member of the group, by some of them, 
 
 |       | **Paper**        | 
 |:------|:------------------|
-| 1     | First paper       |
-| 2     | Second paper      |
-| 3     | Third paper       |
+| 1     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
+| 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
+| 3     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", American Economic Review, vol. 96, no. 3, pp. 694-719      |
+| 4     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |        
+| 5     | Mellström and Johannesson (2008), "[Crowding out in blood donation: Was Titmuss right?](https://doi.org/10.1162/JEEA.2008.6.4.845), *Journal of the European Economic Association*, vol. 6, no. 4, pp. 845-863         |  
+| 6     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
+| 7     |         |  
 
 
 ## Course outline
@@ -134,15 +138,15 @@ Any changes to this outline will be announced in class. Readings marked with a c
         -   Cartwright, Chapter 1 (Sections TBA)      
 *   Simple heuristics for complex choices (week 2)      
         -   Cartwright, Chapter 2 (Sections TBA)      
-        -   °Harrison and List (2004), “Field experiments”, *Journal of Economic Literature*, vol. 42, no. 4, pp. 1009-1055       
+        -   °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206       
 *   Simple heuristics for complex choices (week 3)      
         -   Cartwright, Chapter 2 (Sections TBA)      
-        -   °Allcott, Gentzkow and Song (2022), “Digital addiction”, *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
+        -   °Allcott, Gentzkow and Song (2022), "Digital addiction", *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
 *   Choices with risk (week 4)      
         -   Cartwright, Chapter 3 (Sections TBA)      
 *   Intertemporal Choices (week 5)      
         -   Cartwright, Chapter 4 (Sections TBA)      
-        -   Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “Toward an understanding of the development of time preferences: Evidence from field experiments”, *Journal of Public Economics*, vol. 117, no. 104039        
+        -   Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), "Toward an understanding of the development of time preferences: Evidence from field experiments", *Journal of Public Economics*, vol. 117, no. 104039        
 *   Student presentations (week 6)      
 
 ### Module 2 (Campigotto)
