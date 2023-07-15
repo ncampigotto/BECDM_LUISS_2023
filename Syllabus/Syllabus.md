@@ -121,9 +121,9 @@ The presentation can be given by a single member of the group, by some of them, 
 |:------|:------------------|
 | 1     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
 | 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
-| 3     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", American Economic Review, vol. 96, no. 3, pp. 694-719      |
+| 3     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
 | 4     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |        
-| 5     | Mellström and Johannesson (2008), "[Crowding out in blood donation: Was Titmuss right?](https://doi.org/10.1162/JEEA.2008.6.4.845), *Journal of the European Economic Association*, vol. 6, no. 4, pp. 845-863         |  
+| 5     | Mellström and Johannesson (2008), "[Crowding out in blood donation: Was Titmuss right?](https://doi.org/10.1162/JEEA.2008.6.4.845)", *Journal of the European Economic Association*, vol. 6, no. 4, pp. 845-863         |  
 | 6     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
 | 7     |         |  
 
