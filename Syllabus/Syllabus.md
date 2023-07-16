@@ -137,15 +137,17 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 
 ### Module 1 (Giaccherini)
 
-*  [***Week 1***] Introduction to behavioral economics                
-        +  *Readings:*           
-                -  Cartwright, Chapter 1 (Sections TBA)          
+*   [***Week 1***] Introduction to behavioral economics   
+        +   *Readings:*
+                -   Cartwright, Chapter 1 (Sections TBA)
+        
 *  [***Week 2***] Simple heuristics for complex choices
-        +  *Readings:*          
-                -  Cartwright, Chapter 2 (Sections TBA)            
-                -  °Kahneman, Knetsch and Thaler (1991), “[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)”, *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
-        +  *Activities:*
-                - First in-class quiz                 
+        +   *Readings:*
+                -   Cartwright, Chapter 2 (Sections TBA)
+                -   °Kahneman, Knetsch and Thaler (1991), “[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)”, *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
+        +   *Activities:*
+                - First in-class quiz
+                    
 *  [***Week 3***] Introduction to data analysis with Stata              
 *  [***Week 4***] Choices with risk             
         +  *Readings:*           
