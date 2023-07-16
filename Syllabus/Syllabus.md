@@ -164,14 +164,12 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 *  [***Week 7***] Learning from new information  
     + *Readings:*  
         - Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)
-        
 * [***Week 8***] Social interactions  
     + *Readings:*  
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
         - °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
         - Second experiment             
-
 * [***Weeks 9 and 10***] Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
@@ -180,14 +178,12 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
     + *Activities:*  
         - Third experiment  
         - Third in-class quiz
-
 * [***Week 11***] Nudges  
     + *Readings:*  
         - Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)  
         - °Additional readings TBA
     + *Activities:*  
         - Fourth in-class quiz 
-
 * [***Week 12***] Student presentations  
     + *Activities:*
         - Fifth in-class quiz
