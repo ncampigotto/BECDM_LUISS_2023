@@ -38,7 +38,7 @@ Basic microeconomics and statistics
 
 This course explores topics in behavioural economics, which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
 
-The course consists of two modules. Module 1 introduces the conceptual foundations of behavioural economics and contrasts them with traditional microeconomic theory. Topics covered in this module include prospect theory, loss aversion and other choice biases and heuristics. Module 2 covers topics such as people's ability to use new information, social preferences, and nudges. 
+The course consists of two modules. Module 1 introduces the conceptual foundations of behavioural economics and contrasts them with traditional microeconomic theory. Topics covered in this module include prospect theory, loss aversion, and other choice biases and heuristics. Module 2 covers topics such as people's ability to use new information, social preferences, and nudges. 
 
 A detailed outline of the course is given below. Lectures will combine theory and experimental evidence.
 
@@ -51,7 +51,6 @@ A detailed outline of the course is given below. Lectures will combine theory an
 
 ## Learning assessment and grading
 
-
 Detailed information about the examination rules and regulations can be found at [this link](https://www.luiss.edu/students/student-office/masters-degree-programs/taking-official-exams).
 
 
@@ -62,6 +61,8 @@ Detailed information about the examination rules and regulations can be found at
 | Interpret results from research papers                    |   Five in-class quizzes; Student presentation |
 | Understand and analyze experimental data                  |   Three written assignments                   |
 | Demonstrate knowledge of key theories and policy findings |   Final exam                                  |
+
+Assignments, presentations, and in-class quizzes will be completed in groups formed at the beginning of the course. Once formed, groups will not be changed.
 
 If you attend classes, then your grade will be determined as follows:
 +   In-class quizzes are worth up to a total of 5 points
@@ -78,7 +79,7 @@ Please pay attention to the following rules:
 
 ### Non-attending students
 
-If you do not attend classes, then your assessment will be based on a comprehensive written examination worth 100% of the course grade.
+If you do not attend classes, then your assessment will be based on a comprehensive written exam worth 100% of the course grade.
 
 
 ## Structure of the exams
@@ -86,16 +87,11 @@ If you do not attend classes, then your assessment will be based on a comprehens
 The final exam for attending students will consist of one open-ended question from either Module 1 or Module 2. The comprehensive exam for non-attending students will consist of three open-ended questions from both modules. Two questions will be based on the textbook, while the third question will be based on the other required readings. All exams will be closed-book, closed-notes.
 
 
-## Groups
-
-Assignments, presentations, and in-class quizzes will be completed in groups formed at the beginning of the course. Once formed, groups will not be changed.
-
-
 ## In-class quizzes
 
-During the course, you will be required to complete five in-class quizzes, each approximately 20 minutes in length. Your group will be assigned one or more research papers to read before class. The date and time of in-class quizzes will be announced during the course.
+During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. he quizzes will be based on one or two research papers to be read before class. The date and time of in-class quizzes will be announced during the course.
 
-Each quiz will require you to work in groups and answer 5 multiple choice or true/false questions. There will be no penalty for wrong answers and each correct answer will be worth 0.2 points (so the maximum possible score is 1 point per quiz). Sometimes you will be asked to briefly justify your answer: answers without justification will be marked as incorrect.
+Each quiz will consist of 5 multiple choice or true/false questions. There will be no penalty for wrong answers and each correct answer will be worth 0.2 points (so the maximum possible score is 1 point per quiz). Sometimes you will be asked to briefly justify your answer: answers without justification will be marked as incorrect.
 
 Your total score for in-class quizzes will be the sum of all five scores. Decimals will be rounded to the nearest whole number.
 
@@ -111,7 +107,7 @@ A tutorial will be given in class to help you become familiar with Stata.
 
 ## Student presentation
 
-Each group must choose a research paper to present. Each presentation should be roughly 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
+Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
 The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. Note that these readings will **not** be assessed in the final exam.
 
@@ -139,19 +135,17 @@ Any changes to this outline will be announced in class. Readings marked with a c
 
 ### Module 1 (Giaccherini)
 
-*   Introduction to behavioral economics (week 1)       
-        -   Cartwright, Chapter 1 (Sections TBA)      
+*  [*Week 1*] Introduction to behavioral economics       
+        -   Cartwright, Chapter 1 (Sections TBA)
 *   Simple heuristics for complex choices (week 2)      
         -   Cartwright, Chapter 2 (Sections TBA)      
         -   °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206       
-*   Simple heuristics for complex choices (week 3)      
-        -   Cartwright, Chapter 2 (Sections TBA)      
-        -   °Allcott, Gentzkow and Song (2022), "Digital addiction", *American Economic Review*, vol. 112, no. 7, pp. 2424-2463       
+*   Introduction to data analysis with Stata (week 3)       
 *   Choices with risk (week 4)      
-        -   Cartwright, Chapter 3 (Sections TBA)      
+        -   Cartwright, Chapter 3 (Sections TBA)
+        -   °Readings TBA                     
 *   Intertemporal Choices (week 5)      
         -   Cartwright, Chapter 4 (Sections TBA)      
-        -   Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), "Toward an understanding of the development of time preferences: Evidence from field experiments", *Journal of Public Economics*, vol. 117, no. 104039        
 *   Student presentations (week 6)      
 
 ### Module 2 (Campigotto)
