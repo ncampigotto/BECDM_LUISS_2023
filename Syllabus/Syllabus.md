@@ -89,7 +89,7 @@ The final exam for attending students will consist of one open-ended question fr
 
 ## In-class quizzes
 
-During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. he quizzes will be based on one or two research papers to be read before class. The date and time of in-class quizzes will be announced during the course.
+During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. he quizzes will be based on one or two research papers to be read before class.
 
 Each quiz will consist of 5 multiple choice or true/false questions. There will be no penalty for wrong answers and each correct answer will be worth 0.2 points (so the maximum possible score is 1 point per quiz). Sometimes you will be asked to briefly justify your answer: answers without justification will be marked as incorrect.
 
@@ -105,7 +105,7 @@ The University provides a free Stata licence to all students. You are responsibl
 A tutorial will be given in class to help you become familiar with Stata.
 
 
-## Student presentation
+## Student presentations
 
 Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
@@ -131,35 +131,59 @@ The presentation can be given by a single member of the group, by some members o
 
 ## Course outline
 
-Any changes to this outline will be announced in class. Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
+Any changes to this outline will be announced in class, as will the exact date and time of the experiments and in-class quizzes.
+
+Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
 
 ### Module 1 (Giaccherini)
 
-*  [*Week 1*] Introduction to behavioral economics       
-        -   Cartwright, Chapter 1 (Sections TBA)
-*   Simple heuristics for complex choices (week 2)      
-        -   Cartwright, Chapter 2 (Sections TBA)      
-        -   °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206       
-*   Introduction to data analysis with Stata (week 3)       
-*   Choices with risk (week 4)      
-        -   Cartwright, Chapter 3 (Sections TBA)
-        -   °Readings TBA                     
-*   Intertemporal Choices (week 5)      
-        -   Cartwright, Chapter 4 (Sections TBA)      
-*   Student presentations (week 6)      
+*  [***Week 1***] Introduction to behavioral economics                
+        +  *Readings:*           
+                -  Cartwright, Chapter 1 (Sections TBA)          
+*  [***Week 2***] Simple heuristics for complex choices
+        +  *Readings:*          
+                -  Cartwright, Chapter 2 (Sections TBA)            
+                -  °Kahneman, Knetsch and Thaler (1991), “[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)”, *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
+        +  *Activities:*
+                - First in-class quiz                 
+*  [***Week 3***] Introduction to data analysis with Stata              
+*  [***Week 4***] Choices with risk             
+        +  *Readings:*           
+                -  Cartwright, Chapter 3 (Sections TBA)                
+                -  °Additional reading TBA             
+*  [***Week 5***] Intertemporal Choices         
+        +  *Readings:*
+                -  Cartwright, Chapter 4 (Sections TBA)  
+        +  *Activities:*
+                -  First experiment
+                -  Second in-class quiz    
+*  [***Week 6***] Student presentations      
 
 ### Module 2 (Campigotto)
 
-*   Learning from new information (week 6)      
-        -   Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)        
-*   Social interactions (week 7)        
-        -   Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)      
-        -   °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927       
-*   Social preferences and social comparisons (weeks 8 and 9)       
-        -   Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
-        -   °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
-        -   °Meyer and Tripodi (2021), “[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)”, *Journal of Economic Psychology*, vol. 87, no. 102434     
-*   Nudges (week 11)        
-        -   Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)       
-        -   °Readings TBA     
-*   Student presentations (week 12)
+*  [***Week 7***] Learning from new information         
+        +  *Readings:*      
+                -  Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)        
+*  [***Week 8***] Social interactions           
+        +  *Readings:*                 
+                -  Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)      
+                -  °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927
+        +  *Activities:*
+                -  Second experiment             
+*  [***Weeks 9 and 10***] Social preferences and social comparisons            
+        +  *Readings:*     
+                -  Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)       
+                -  °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810       
+                -  °Meyer and Tripodi (2021), “[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)”, *Journal of Economic Psychology*, vol. 87, no. 102434
+        +  *Activities:*
+                -  Third experiment             
+                -  Third in-class quiz
+*  [***Week 11***] Nudges 
+        +  *Readings:*       
+                -  Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)       
+                -  °Additional readings TBA
+        +  *Activities:*
+                -  Fourth in-class quiz
+*  [***Week 12***] Student presentations
+        +  *Activities:*
+                -  Fifth in-class quiz
