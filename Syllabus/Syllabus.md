@@ -180,7 +180,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
         - Third in-class quiz
 * [***Week 11***] Nudges  
     + *Readings:*  
-        - Cartwright, Chapters 10 (Sections 10.7.0 and 10.7.2) and 11 (Sections 11.2.0 to 11.2.5)  
+        - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
         - °Additional readings TBA
     + *Activities:*  
         - Fourth in-class quiz 
