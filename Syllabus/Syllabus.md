@@ -126,7 +126,7 @@ The presentation can be given by a single member of the group, by some members o
 | 9     | Goldstein, Cialdini and Griskevicius (2008), “[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)”, *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
 | 10     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), “[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)”, *Quarterly Journal of Economics*, vol. 125, no. 1, pp. 263-306         | 
 | 11     | Alatas, Chandrasekhar, Mobius and Paladines (2023), “[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)”, *Economic Journal*, forthcoming           | 
-| 12     |            |
+| 12     | Reeck, Posner, Mrkva and Johnson (2023), “[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)”, *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
 
 
 ## Course outline
@@ -183,7 +183,8 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * [***Week 11***] Nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
-        - °Additional readings TBA
+        - °Biswas, Szocs, Chacko and Wansink (2017), “[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)”, *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
+        - °Choudhary, Shunko, Netessine and Koo (2020), “[Nudging drivers to safety: Evidence from a field experiment](https://doi.org/10.1287/mnsc.2021.4063)”, *Management Science*, vol. 68, no. 6, pp. 3975-4753 
     + *Activities:*  
         - Fourth in-class quiz
         - Submission of second assignment
