@@ -122,10 +122,10 @@ The presentation can be given by a single member of the group, by some members o
 | 5     | Read, Frederick, Orsel and Rahman (2005), “[Four score and seven years from now: The date/delay effect in temporal discounting](https://doi.org/10.1287/mnsc.1050.0412)”, *Management Science*, vol. 51, no. 9, pp. 1309-1448        |
 | 6     |  Homonoff (2018), “[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)”, *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
 | 7     | Ariely, Bracha and Meier (2009), “[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)”, *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 8     | Goette and Tripodi (2023), “[The Limits of Social Recognition: Experimental Evidence from Blood Donors](https://www.egontripodi.com/papers/recognition.pdf)”, working paper         |  
+| 8     | Goette and Tripodi (2023), “[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)”, working paper         |  
 | 9     | Goldstein, Cialdini and Griskevicius (2008), “[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)”, *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
 | 10     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), “[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)”, *Quarterly Journal of Economics*, vol. 125, no. 1, pp. 263-306         | 
-| 11     | Alatas, Chandrasekhar, Mobius and Paladines (2023), “[Do Celebrity Endorsements Matter? A Twitter Experiment Promoting Vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)”, *Economic Journal*, forthcoming           | 
+| 11     | Alatas, Chandrasekhar, Mobius and Paladines (2023), “[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)”, *Economic Journal*, forthcoming           | 
 | 12     |            |
 
 
