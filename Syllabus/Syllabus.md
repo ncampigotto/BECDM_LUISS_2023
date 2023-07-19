@@ -113,15 +113,17 @@ The list of papers available for presentation is given below. Papers are assigne
 
 The presentation can be given by a single member of the group, by some members or by all of them, depending on what group members decide among themselves. 
 
-|       | **Paper**        | 
+| No.   | **Paper**        | 
 |:------|:------------------|
-| 1     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
-| 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
-| 3     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
-| 4     | |
-| 5     | |
-| 6     | |
-| 7     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |        
+| 1     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
+| 2     | Sharpe, Staelin and Huber (2008), "[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)", *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
+| 3     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
+| 4     | Hastings and Mitchell (2018), "[How financial literacy and impatience shape retirement wealth and investment behaviors](https://doi.org/10.1017/S1474747218000227)", *Journal of Pension Economics & Finance*, vol. 19, no. 1, pp. 1-20        |
+| 5     | Read, Frederick, Orsel and Rahman (2005), "[Four score and seven years from now: The date/delay effect in temporal discounting](https://doi.org/10.1287/mnsc.1050.0412)", *Management Science*, vol. 51, no. 9, pp. 1309-1448        |
+| 6     |  Thaler and Benartzi (2004), "[Save more tomorrow: Using behavioral economics to increase employee saving](https://doi.org/10.1086/380085)", *Journal of Political Economy*, vol. 112, no. S1, pp. S164-S187      |
+| 7     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
+| 8     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
+| 9     | Alatas, Chandrasekhar, Mobius, Olken and Paladines (2020), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
 | 8     | Mellström and Johannesson (2008), "[Crowding out in blood donation: Was Titmuss right?](https://doi.org/10.1162/JEEA.2008.6.4.845)", *Journal of the European Economic Association*, vol. 6, no. 4, pp. 845-863         |  
 | 9     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
 | 10     |         |
