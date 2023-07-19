@@ -115,20 +115,18 @@ The presentation can be given by a single member of the group, by some members o
 
 | No.   | **Paper**        | 
 |:------|:------------------|
-| 1     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
-| 2     | Sharpe, Staelin and Huber (2008), "[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)", *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
-| 3     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
-| 4     | Hastings and Mitchell (2018), "[How financial literacy and impatience shape retirement wealth and investment behaviors](https://doi.org/10.1017/S1474747218000227)", *Journal of Pension Economics & Finance*, vol. 19, no. 1, pp. 1-20        |
-| 5     | Read, Frederick, Orsel and Rahman (2005), "[Four score and seven years from now: The date/delay effect in temporal discounting](https://doi.org/10.1287/mnsc.1050.0412)", *Management Science*, vol. 51, no. 9, pp. 1309-1448        |
-| 6     |  Thaler and Benartzi (2004), "[Save more tomorrow: Using behavioral economics to increase employee saving](https://doi.org/10.1086/380085)", *Journal of Political Economy*, vol. 112, no. S1, pp. S164-S187      |
-| 7     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
-| 8     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 9     | Alatas, Chandrasekhar, Mobius, Olken and Paladines (2020), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 8     | Mellström and Johannesson (2008), "[Crowding out in blood donation: Was Titmuss right?](https://doi.org/10.1162/JEEA.2008.6.4.845)", *Journal of the European Economic Association*, vol. 6, no. 4, pp. 845-863         |  
-| 9     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
-| 10     |         |
-| 11     |         | 
-| 12     |         | 
+| 1     | Della Vigna and Malmendier (2006), “[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)”, *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
+| 2     | Sharpe, Staelin and Huber (2008), “[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)”, *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
+| 3     | Levitt, List, Neckermann and Sadoff (2016), “[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)”, *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
+| 4     | Hastings and Mitchell (2018), “[How financial literacy and impatience shape retirement wealth and investment behaviors](https://doi.org/10.1017/S1474747218000227)” *Journal of Pension Economics & Finance*, vol. 19, no. 1, pp. 1-20        |
+| 5     | Read, Frederick, Orsel and Rahman (2005), “[Four score and seven years from now: The date/delay effect in temporal discounting](https://doi.org/10.1287/mnsc.1050.0412)”, *Management Science*, vol. 51, no. 9, pp. 1309-1448        |
+| 6     |  Homonoff (2018), “[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)”, *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
+| 7     | Ariely, Bracha and Meier (2009), “[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)”, *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
+| 8     | Goette and Tripodi (2023), “[The Limits of Social Recognition: Experimental Evidence from Blood Donors](https://www.egontripodi.com/papers/recognition.pdf)”, working paper         |  
+| 9     | Goldstein, Cialdini and Griskevicius (2008), “[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)”, *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
+| 10     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), “[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)”, *Quarterly Journal of Economics*, vol. 125, no. 1, pp. 263-306         | 
+| 11     | Alatas, Chandrasekhar, Mobius and Paladines (2023), “[Do Celebrity Endorsements Matter? A Twitter Experiment Promoting Vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)”, *Economic Journal*, forthcoming           | 
+| 12     |            |
 
 
 ## Course outline
