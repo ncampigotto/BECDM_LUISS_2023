@@ -26,12 +26,12 @@ Office hours: by appointment
 ## Classes
 
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
-Friday, 11.30-12.30 (WebexAPP)    
+Friday, 16.15-17.15 (WebexAPP)    
 Classes will **not** be recorded. Participation is mandatory. Please be punctual!
 
 ## Prerequisites
 
-Basic microeconomics and statistics
+Basic microeconomics and statistics.
 
 
 ## Course overview
@@ -149,11 +149,11 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * [***Week 3***] Introduction to data analysis with Stata              
 * [***Week 4***] Choices with risk  
     + *Readings:*  
-        - Cartwright, Chapter 3 (Sections TBA)  
-        - °Additional reading TBA             
+        - Cartwright, Chapter 3 (Sections TBA)        
 * [***Week 5***] Intertemporal Choices  
     + *Readings:*
         - Cartwright, Chapter 4 (Sections TBA)
+        - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)”, *Journal of Public Economics*, vol. 177, no. 104039
     + *Activities:*
         - First experiment
         - Second in-class quiz    
