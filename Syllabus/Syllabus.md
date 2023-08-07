@@ -158,8 +158,9 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
         - First experiment
         - Second in-class quiz    
 * [***Week 6***] Student presentations
-    + *Activities:*
-        - Submission of first assignment   
+    + *Activities:*    
+        - Student presentations
+        - Submission of first assignment
 
 ### Module 2 (Campigotto)
 
@@ -191,4 +192,5 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * [***Week 12***] Student presentations  
     + *Activities:*
         - Fifth in-class quiz
+        - Student presentations
         - Submission of third assignment
