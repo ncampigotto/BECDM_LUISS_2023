@@ -54,7 +54,7 @@ A detailed outline of the course is given below. Lectures will combine theory an
 
 ## 📌 Learning assessment and grading
 
-Detailed information about the examination rules and regulations can be found [HERE](/Other/FEB_Handbook_2023-24_ENG.pdf).
+Detailed information about the examination rules and regulations can be found [HERE](Other/FEB_Handbook_2023-24_ENG.pdf).
 
 
 ### Attending students
@@ -135,7 +135,7 @@ Half of the groups will be randomly selected to present during the sixth week of
 | 5     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
 | 6     | Bursztyn, Rao, Roth and Yanagizawa-Drott (2023), "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, no. 4, pp. 1832-1864         |
 | 7     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), "[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)", *American Economic Journal: Economic Policy*, vol. 8, no. 3, pp. 203-232         |
-| 8     | Baert, Herregods and Sterkens (2023), "[What does Job applicants' body art signal to employers?]([https://doi.org/10.1162/qjec.2010.125.1.263](http://dx.doi.org/10.2139/ssrn.4509727))", working paper 
+| 8     | Baert, Herregods and Sterkens (2023), "[What does Job applicants' body art signal to employers?](http://dx.doi.org/10.2139/ssrn.4509727)", working paper 
 | 9     | Santos Póvoa, Pech, Camou Viacava and Schwartz (2029), "[Is the beauty premium accessible to all? An experimental analysis](https://doi.org/10.1016/j.joep.2020.102252)", *Journal of Economic Psychology*, vol. 78, no. 102252         |
 | 10     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
 | 11     | Dwenger, Kleven, Rasul and Rincke (2016), "[Extrinsic and intrinsic motivations for tax compliance: Evidence from a field experiment in Germany](https://doi.org/https://doi.org/10.1257/pol.20150083)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
