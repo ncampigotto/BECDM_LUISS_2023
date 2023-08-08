@@ -117,9 +117,9 @@ A tutorial will be given in class to help you become familiar with Stata.
 
 Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
-The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. Papers not selected by a group will not be presented.
+The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers not selected by a group will not be presented.
 
-The presentation can be given by a single member of the group, by some members or by all of them, depending on what group members decide among themselves. 
+Half of the groups will be randomly selected to present during the sixth week of classes, while the other half will present during the twelfth week. The presentation can be given by a single member of the group, by some members or by all of them, depending on what group members decide among themselves. 
 
 
 > [!IMPORTANT]
