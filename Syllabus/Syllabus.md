@@ -61,9 +61,9 @@ Detailed information about the examination rules and regulations can be found at
 
 | **Objective**                                             |   **Assessment method**                       | 
 |:----------------------------------------------------------|:----------------------------------------------|
-| Interpret results from research papers                    |   Five in-class quizzes; Student presentation |
-| Understand and analyze experimental data                  |   Three written assignments                   |
-| Demonstrate knowledge of key theories and policy findings |   Final exam                                  |
+| Interpret results from research papers                    |   In-class quizzes (x5) <br> Student presentation (x1)  |
+| Understand and analyze experimental data                  |   Written assignments (x3)                              |
+| Demonstrate knowledge of key theories and policy findings |   Final written exam (x1)                               |
 
 Assignments, presentations, and in-class quizzes will be completed in groups formed at the beginning of the course. Once formed, groups will not be changed.
 
@@ -123,7 +123,7 @@ The presentation can be given by a single member of the group, by some members o
 
 
 > [!IMPORTANT]
-> Knowledge of these papers will **not** be assessed in the final and comprehensive exams.
+> Knowledge of these papers will **not** be assessed in the written exams.
 
 
 | No.   | **Paper**        | 
@@ -168,12 +168,12 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
         - Cartwright, Chapter 4 (Sections TBA)
         - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)”, *Journal of Public Economics*, vol. 177, no. 104039
     + *Activities:*
-        - First experiment
-        - Second in-class quiz    
+        - 🔬 First experiment
+        - ❓ Second in-class quiz    
 * [***Week 6***] Student presentations
     + *Activities:*    
-        - Student presentations
-        - Submission of first assignment
+        - 📢 Student presentations
+        - 📃 Submission of first assignment
 
 ### Module 2 (Campigotto)
 
@@ -185,25 +185,25 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
         - °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
-        - Second experiment             
+        - 🔬 Second experiment             
 * [***Weeks 9 and 10***] Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
         - °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
         - °Meyer and Tripodi (2021), “[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)”, *Journal of Economic Psychology*, vol. 87, no. 102434  
     + *Activities:*  
-        - Third experiment  
-        - Third in-class quiz
+        - 🔬 Third experiment  
+        - ❓ Third in-class quiz
 * [***Week 11***] Nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
         - °Biswas, Szocs, Chacko and Wansink (2017), “[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)”, *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
         - °Choudhary, Shunko, Netessine and Koo (2020), “[Nudging drivers to safety: Evidence from a field experiment](https://doi.org/10.1287/mnsc.2021.4063)”, *Management Science*, vol. 68, no. 6, pp. 3975-4753 
     + *Activities:*  
-        - Fourth in-class quiz
-        - Submission of second assignment
+        - ❓ Fourth in-class quiz
+        - 📃 Submission of second assignment
 * [***Week 12***] Student presentations  
     + *Activities:*
-        - Fifth in-class quiz
-        - Student presentations
-        - Submission of third assignment
+        - ❓ Fifth in-class quiz
+        - 📢 Student presentations
+        - 📃 Submission of third assignment
