@@ -2,11 +2,11 @@
 
 ## Instructors
 
-Matilde Giaccherini (Module 1)    
+[Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Module 1)    
 Email: mgiaccherini *at* luiss *dot* it    
 Office hours: by appointment
 
-Nicola Campigotto (Module 2)    
+[Nicola Campigotto](https://ncampigotto.github.io) (Module 2)    
 Email: ncampigotto *at* luiss *dot* it    
 Office hours: by appointment
 
