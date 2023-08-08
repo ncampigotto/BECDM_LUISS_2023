@@ -1,6 +1,6 @@
 # Behavioural Economics and Consumer Decision Making - Syllabus
 
-## Instructors
+## 📌 Instructors
 
 [Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Module 1)    
 Email: mgiaccherini *at* luiss *dot* it    
@@ -11,19 +11,19 @@ Email: ncampigotto *at* luiss *dot* it
 Office hours: by appointment
 
 
-## Teaching assistant
+## 📌 Teaching assistant
 
 Luisa Lorè    
 Email: llore *at* luiss *dot* it     
 Office hours: by appointment
 
 
-## Course webpage (Luiss account required)
+## 📌 Course webpage (Luiss account required)
 
 <https://learn.luiss.it/course/view.php?id=20421>
 
 
-## Classes
+## 📌 Classes
 
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
 Friday, 16.15-17.15 (WebexAPP)
@@ -32,12 +32,12 @@ Friday, 16.15-17.15 (WebexAPP)
 > Classes will **not** be recorded. Participation is mandatory. Please be punctual!
 
 
-## Prerequisites
+## 📌 Prerequisites
 
 Basic microeconomics and statistics.
 
 
-## Course overview
+## 📌 Course overview
 
 This course explores topics in [behavioural economics](https://news.uchicago.edu/explainer/what-is-behavioral-economics), which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
 
@@ -46,13 +46,13 @@ The course consists of two modules. Module 1 introduces the conceptual foundatio
 A detailed outline of the course is given below. Lectures will combine theory and experimental evidence.
 
 
-## Textbook
+## 📌 Textbook
 
 +  Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), 3rd edition, Routledge
 +  Additional required readings are listed in the course outline
 
 
-## Learning assessment and grading
+## 📌 Learning assessment and grading
 
 Detailed information about the examination rules and regulations can be found at [this link](https://www.luiss.edu/students/student-office/masters-degree-programs/taking-official-exams).
 
@@ -86,7 +86,7 @@ The final course grade will be scored on a 30-point scale, with 18 being the min
 If you do not attend classes, then your assessment will be based on a comprehensive written exam worth 100% of the course grade.
 
 
-## Structure of the exams
+## 📌 Structure of the exams
 
 The final exam for attending students will consist of one open-ended question from either Module 1 or Module 2. 
 
@@ -95,7 +95,7 @@ The comprehensive exam for non-attending students will consist of three open-end
 All exams will be closed-book, closed-notes.
 
 
-## In-class quizzes
+## 📌 In-class quizzes
 
 During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. The quizzes will be based on one or two research papers to be read before class.
 
@@ -104,7 +104,7 @@ Each quiz will consist of 5 multiple choice or true/false questions. There will 
 Your total score for in-class quizzes will be the sum of all five scores. Decimals will be rounded to the nearest whole number.
 
 
-## Written assignments
+## 📌 Written assignments
 
 As part of your coursework, you will take part in three experiments. Each group will then have to analyze the data set of experimental results and write a short report to answer some questions. The analysis will be performed using [Stata](https://www.stata.com).
 
@@ -113,7 +113,7 @@ The University provides a free Stata licence to all students. You are responsibl
 A tutorial will be given in class to help you become familiar with Stata.
 
 
-## Student presentations
+## 📌 Student presentations
 
 Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
@@ -124,6 +124,7 @@ The presentation can be given by a single member of the group, by some members o
 
 > [!IMPORTANT]
 > Knowledge of these papers will **not** be assessed in the final and comprehensive exams.
+
 
 | No.   | **Paper**        | 
 |:------|:------------------|
@@ -141,7 +142,7 @@ The presentation can be given by a single member of the group, by some members o
 | 12     | Reeck, Posner, Mrkva and Johnson (2023), “[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)”, *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
 
 
-## Course outline
+## 📌 Course outline
 
 Any changes to this outline will be announced in class, as will the exact date and time of the experiments and in-class quizzes.
 
