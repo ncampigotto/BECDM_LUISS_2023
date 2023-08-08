@@ -150,43 +150,43 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 
 ### Module 1 (Giaccherini)
 
-* [***Week 1***] Introduction to behavioral economics  
+* `[Week 1]` Introduction to behavioral economics  
     - *Readings:*  
         + Cartwright, Chapter 1 (Sections TBA)       
-* [***Week 2***] Simple heuristics for complex choices  
+* `[Week 2]` Simple heuristics for complex choices  
     + *Readings:*          
         - Cartwright, Chapter 2 (Sections TBA)            
         - °Kahneman, Knetsch and Thaler (1991), “[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)”, *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
     + *Activities:*
-        - First in-class quiz                 
-* [***Week 3***] Introduction to data analysis with Stata              
-* [***Week 4***] Choices with risk  
+        - ❓ First in-class quiz                 
+* `[Week 3]` Introduction to data analysis with Stata              
+* `[Week 4]` Choices with risk  
     + *Readings:*  
         - Cartwright, Chapter 3 (Sections TBA)        
-* [***Week 5***] Intertemporal Choices  
+* `[Week 5]` Intertemporal Choices  
     + *Readings:*
         - Cartwright, Chapter 4 (Sections TBA)
         - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)”, *Journal of Public Economics*, vol. 177, no. 104039
     + *Activities:*
         - 🔬 First experiment
         - ❓ Second in-class quiz    
-* [***Week 6***] Student presentations
+* `[Week 6]` Student presentations
     + *Activities:*    
         - 📢 Student presentations
         - 📃 Submission of first assignment
 
 ### Module 2 (Campigotto)
 
-*  [***Week 7***] Learning from new information  
+*  `[Week 7]` Learning from new information  
     + *Readings:*  
         - Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)
-* [***Week 8***] Social interactions  
+* `[Week 8]` Social interactions  
     + *Readings:*  
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
         - °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
         - 🔬 Second experiment             
-* [***Weeks 9 and 10***] Social preferences and social comparisons  
+* `[Weeks 9 and 10]` Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
         - °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
@@ -194,7 +194,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
     + *Activities:*  
         - 🔬 Third experiment  
         - ❓ Third in-class quiz
-* [***Week 11***] Nudges  
+* `[Week 11]` Nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
         - °Biswas, Szocs, Chacko and Wansink (2017), “[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)”, *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
@@ -202,7 +202,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
     + *Activities:*  
         - ❓ Fourth in-class quiz
         - 📃 Submission of second assignment
-* [***Week 12***] Student presentations  
+* `[Week 12]` Student presentations  
     + *Activities:*
         - ❓ Fifth in-class quiz
         - 📢 Student presentations
