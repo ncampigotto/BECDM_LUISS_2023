@@ -128,18 +128,22 @@ The presentation can be given by a single member of the group, by some members o
 
 | No.   | **Paper**        | 
 |:------|:------------------|
-| 1     | Della Vigna and Malmendier (2006), “[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)”, *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
-| 2     | Sharpe, Staelin and Huber (2008), “[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)”, *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
-| 3     | Levitt, List, Neckermann and Sadoff (2016), “[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)”, *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
-| 4     | Hastings and Mitchell (2018), “[How financial literacy and impatience shape retirement wealth and investment behaviors](https://doi.org/10.1017/S1474747218000227)” *Journal of Pension Economics & Finance*, vol. 19, no. 1, pp. 1-20        |
-| 5     | Read, Frederick, Orsel and Rahman (2005), “[Four score and seven years from now: The date/delay effect in temporal discounting](https://doi.org/10.1287/mnsc.1050.0412)”, *Management Science*, vol. 51, no. 9, pp. 1309-1448        |
-| 6     |  Homonoff (2018), “[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)”, *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
-| 7     | Ariely, Bracha and Meier (2009), “[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)”, *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 8     | Goette and Tripodi (2023), “[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)”, working paper         |  
-| 9     | Goldstein, Cialdini and Griskevicius (2008), “[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)”, *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |  
-| 10     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), “[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)”, *Quarterly Journal of Economics*, vol. 125, no. 1, pp. 263-306         | 
-| 11     | Alatas, Chandrasekhar, Mobius and Paladines (2023), “[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)”, *Economic Journal*, forthcoming           | 
-| 12     | Reeck, Posner, Mrkva and Johnson (2023), “[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)”, *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
+| 1     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
+| 2     | Sharpe, Staelin and Huber (2008), "[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)", *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
+| 3     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
+| 4     | Hastings and Mitchell (2018), "[How financial literacy and impatience shape retirement wealth and investment behaviors](https://doi.org/10.1017/S1474747218000227)" *Journal of Pension Economics & Finance*, vol. 19, no. 1, pp. 1-20        |
+| 5     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
+| 6     | Bursztyn, Rao, Roth and Yanagizawa-Drott (2023), "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, no. 4, pp. 1832-1864         |
+| 7     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), "[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)", *American Economic Journal: Economic Policy*, vol. 8, no. 3, pp. 203-232         |
+| 8     | Baert, Herregods and Sterkens (2023), "[What does Job applicants' body art signal to employers?]([https://doi.org/10.1162/qjec.2010.125.1.263](http://dx.doi.org/10.2139/ssrn.4509727))", working paper 
+| 9     | Santos Póvoa, Pech, Camou Viacava and Schwartz (2029), "[Is the beauty premium accessible to all? An experimental analysis](https://doi.org/10.1016/j.joep.2020.102252)", *Journal of Economic Psychology*, vol. 78, no. 102252         |
+| 10     | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
+| 11     | Dwenger, Kleven, Rasul and Rincke (2016), "[Extrinsic and intrinsic motivations for tax compliance: Evidence from a field experiment in Germany](https://doi.org/https://doi.org/10.1257/pol.20150083)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
+| 12     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper         | 
+| 13     | Hager, Hensel, Hermie and Roth (2023), "[Political activists as free riders: Evidence from a natural field experiment](https://doi.org/10.1093/ej/uead020)", *Economic Journal*, vol. 133, no. 653, pp. 2068-2084           |
+| 14     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |        
+| 15     | Alatas, Chandrasekhar, Mobius and Paladines (2023), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, forthcoming           | 
+| 16     | Reeck, Posner, Mrkva and Johnson (2023), "[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)", *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
 
 
 ## 📌 Course outline
@@ -156,7 +160,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * `[Week 2]` Simple heuristics for complex choices  
     + *Readings:*          
         - Cartwright, Chapter 2 (Sections TBA)            
-        - °Kahneman, Knetsch and Thaler (1991), “[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)”, *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
+        - °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
     + *Activities:*
         - ❓ First in-class quiz                 
 * `[Week 3]` Introduction to data analysis with Stata              
@@ -166,7 +170,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * `[Week 5]` Intertemporal Choices  
     + *Readings:*
         - Cartwright, Chapter 4 (Sections TBA)
-        - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), “[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)”, *Journal of Public Economics*, vol. 177, no. 104039
+        - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, no. 104039
     + *Activities:*
         - 🔬 First experiment
         - ❓ Second in-class quiz    
@@ -183,22 +187,22 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
 * `[Week 8]` Social interactions  
     + *Readings:*  
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
-        - °Balafoutas, Nikiforakis and Rockenbach (2014), “[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
+        - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
         - 🔬 Second experiment             
 * `[Weeks 9 and 10]` Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
-        - °Gneezy and Rustichini (2000), “[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)”, *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
-        - °Meyer and Tripodi (2021), “[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)”, *Journal of Economic Psychology*, vol. 87, no. 102434  
+        - °Gneezy and Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
+        - °Meyer and Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, no. 102434  
     + *Activities:*  
         - 🔬 Third experiment  
         - ❓ Third in-class quiz
 * `[Week 11]` Nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
-        - °Biswas, Szocs, Chacko and Wansink (2017), “[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)”, *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
-        - °Choudhary, Shunko, Netessine and Koo (2020), “[Nudging drivers to safety: Evidence from a field experiment](https://doi.org/10.1287/mnsc.2021.4063)”, *Management Science*, vol. 68, no. 6, pp. 3975-4753 
+        - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
+        - °Choudhary, Shunko, Netessine and Koo (2020), "[Nudging drivers to safety: Evidence from a field experiment](https://doi.org/10.1287/mnsc.2021.4063)", *Management Science*, vol. 68, no. 6, pp. 3975-4753 
     + *Activities:*  
         - ❓ Fourth in-class quiz
         - 📃 Submission of second assignment
