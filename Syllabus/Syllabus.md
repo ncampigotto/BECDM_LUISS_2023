@@ -28,7 +28,7 @@ Office hours: by appointment
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
 Friday, 16.15-17.15 (WebexAPP)
 
-> [!NOTE]
+> [!IMPORTANT]
 > Classes will **not** be recorded. Participation is mandatory. Please be punctual!
 
 
@@ -88,21 +88,25 @@ If you do not attend classes, then your assessment will be based on a comprehens
 
 ## Structure of the exams
 
-The final exam for attending students will consist of one open-ended question from either Module 1 or Module 2. The comprehensive exam for non-attending students will consist of three open-ended questions from both modules. Two questions will be based on the textbook, while the third question will be based on the other required readings. All exams will be closed-book, closed-notes.
+The final exam for attending students will consist of one open-ended question from either Module 1 or Module 2. 
+
+The comprehensive exam for non-attending students will consist of three open-ended questions from both modules. Two questions will be based on the textbook, while the third question will be based on the other required readings. 
+
+All exams will be closed-book, closed-notes.
 
 
 ## In-class quizzes
 
-During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. he quizzes will be based on one or two research papers to be read before class.
+During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. The quizzes will be based on one or two research papers to be read before class.
 
 Each quiz will consist of 5 multiple choice or true/false questions. There will be no penalty for wrong answers and each correct answer will be worth 0.2 points (so the maximum possible score is 1 point per quiz). Sometimes you will be asked to briefly justify your answer: answers without justification will be marked as incorrect.
 
 Your total score for in-class quizzes will be the sum of all five scores. Decimals will be rounded to the nearest whole number.
 
 
-## Assignments
+## Written assignments
 
-As part of your coursework, you will take part in three experiments. Each group will then have to analyze the data set of experimental results to answer some questions. The analysis will be performed using [Stata](https://www.stata.com).
+As part of your coursework, you will take part in three experiments. Each group will then have to analyze the data set of experimental results and write a short report to answer some questions. The analysis will be performed using [Stata](https://www.stata.com).
 
 The University provides a free Stata licence to all students. You are responsible for ensuring that the software is properly installed on your computer. 
 
@@ -113,9 +117,13 @@ A tutorial will be given in class to help you become familiar with Stata.
 
 Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
-The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. Note that these readings will **not** be assessed in the final exam.
+The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers numbered 1 to 6 will be presented during the sixth week of classes, while papers numbered 7 to 12 will be presented during the twelfth week. Papers not selected by a group will not be presented.
 
 The presentation can be given by a single member of the group, by some members or by all of them, depending on what group members decide among themselves. 
+
+
+> [!IMPORTANT]
+> Knowledge of these papers will **not** be assessed in the final and comprehensive exams.
 
 | No.   | **Paper**        | 
 |:------|:------------------|
