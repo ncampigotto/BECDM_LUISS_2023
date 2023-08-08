@@ -54,7 +54,7 @@ A detailed outline of the course is given below. Lectures will combine theory an
 
 ## 📌 Learning assessment and grading
 
-Detailed information about the examination rules and regulations can be found at [this link](https://www.luiss.edu/students/student-office/masters-degree-programs/taking-official-exams).
+Detailed information about the examination rules and regulations can be found [HERE](/Other/FEB_Handbook_2023-24_ENG.pdf).
 
 
 ### Attending students
