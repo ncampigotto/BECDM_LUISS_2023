@@ -39,7 +39,7 @@ Basic microeconomics and statistics.
 
 ## Course overview
 
-This course explores topics in behavioural economics, which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
+This course explores topics in [behavioural economics](https://news.uchicago.edu/explainer/what-is-behavioral-economics), which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
 
 The course consists of two modules. Module 1 introduces the conceptual foundations of behavioural economics and contrasts them with traditional microeconomic theory. Topics covered in this module include prospect theory, loss aversion, and other choice biases and heuristics. Module 2 covers topics such as people's ability to use new information, social preferences, and nudges. 
 
@@ -75,9 +75,10 @@ If you attend classes, then your grade will be determined as follows:
 
 The final course grade will be scored on a 30-point scale, with 18 being the minimum pass grade. Scores above 30 will be graded as 30 e lode (with distinction).
 
-Please pay attention to the following rules:
-1.  If you do not take an in-class quiz, you will receive zero points for that quiz.
-2.  Group assignments must be submitted by the scheduled due date. If you do not hand in an assignment or hand it in late, then you will receive zero points for that assignment. No excuses will be accepted for late submissions.
+> [!IMPORTANT]
+> Please pay attention to the following rules:
+> 1. If you do not take an in-class quiz, you will receive zero points for that quiz.
+> 2. Group assignments must be submitted by the scheduled due date. If you do not hand in an assignment or hand it in late, then you will receive zero points for that assignment. No excuses will be accepted for late submissions.
 
 
 ### Non-attending students
