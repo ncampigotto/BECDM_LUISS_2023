@@ -18,7 +18,7 @@ Email: llore *at* luiss *dot* it
 Office hours: by appointment
 
 
-## Course webpage (Luiss login required)
+## Course webpage (Luiss account required)
 
 <https://learn.luiss.it/course/view.php?id=20421>
 
@@ -27,7 +27,8 @@ Office hours: by appointment
 
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
 Friday, 16.15-17.15 (WebexAPP)    
-Classes will **not** be recorded. Participation is mandatory. Please be punctual!
+> [!NOTE}
+> Classes will **not** be recorded. Participation is mandatory. Please be punctual!
 
 ## Prerequisites
 
