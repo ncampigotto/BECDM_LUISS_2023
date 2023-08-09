@@ -143,8 +143,9 @@ Half of the groups will be randomly selected to present during the sixth week of
 | 13     | Fazio, Reggiani and Scervini (2023), "[Social media charity campaigns and pro-social behaviour: Evidence from the Ice Bucket Challenge](https://doi.org/10.1016/j.joep.2023.102624)", *Journal of Economic Psychology*, vol. 96, no. 102624         |
 | 14     | Hager, Hensel, Hermie and Roth (2023), "[Political activists as free riders: Evidence from a natural field experiment](https://doi.org/10.1093/ej/uead020)", *Economic Journal*, vol. 133, no. 653, pp. 2068-2084           |
 | 15     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |        
-| 16     | Alatas, Chandrasekhar, Mobius and Paladines (2023), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, forthcoming           | 
-| 17     | Reeck, Posner, Mrkva and Johnson (2023), "[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)", *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
+| 16     | Alatas, Chandrasekhar, Mobius and Paladines (2023), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, forthcoming           |
+| 17     | Giaccherini, Gilli, Mancinelli and Zoli (2021), "[Nudging food waste decisions at restaurants](https://doi.org/10.1016/j.euroecorev.2021.103722)", *European Economic Review*, vol. 135, no. 103722           | 
+| 18     | Reeck, Posner, Mrkva and Johnson (2023), "[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)", *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
 
 
 ## 📌 Course outline
