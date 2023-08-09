@@ -204,7 +204,7 @@ Readings marked with a circle (°) will be assessed through in-class quizzes. Al
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
         - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
-        - °Choudhary, Shunko, Netessine and Koo (2020), "[Nudging drivers to safety: Evidence from a field experiment](https://doi.org/10.1287/mnsc.2021.4063)", *Management Science*, vol. 68, no. 6, pp. 3975-4753 
+        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489  
     + *Activities:*  
         - ❓ Fourth in-class quiz
         - 📃 Submission of second assignment
