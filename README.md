@@ -14,7 +14,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
 | 1            | Introduction to behavioral economics        | Giaccherini       | To be uploaded           |
 | 2            | Heuristics and biases                       | Giaccherini       | To be uploaded           |
-| 3            | Stata crash course                          | Campigotto, Lorè  | To be uploaded           |
+| 3            | Introduction to data analysis with Stata    | Campigotto, Lorè  | To be uploaded           |
 | 4            | Choices with risk                           | Giaccherini       | To be uploaded           |
 | 5            | Intertemporal Choices                       | Giaccherini       | To be uploaded           |
 | 6            | Student presentations                       | Giaccherini       |                          |
