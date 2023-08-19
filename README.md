@@ -8,7 +8,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 > Please take some time to read the [**SYLLABUS**](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Syllabus/Syllabus.md) carefully and make sure you understand all the course requirements.
 
 
-#### 📌 Course material
+## 📌 Course material
 
 | **Week**     | **Topic**                                   | **Instructor**    | **Slides / Handouts**    |
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
@@ -25,7 +25,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 | 12           | Student presentations                       | Campigotto        |                          |
 
 
-#### 📌 Assignments
+## 📌 Assignments
 
 |              | **Due date**                                | **Data**          | **Questions**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
