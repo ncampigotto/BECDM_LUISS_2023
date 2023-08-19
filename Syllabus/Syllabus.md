@@ -151,7 +151,8 @@ Half of the groups will be randomly selected to present during the sixth week of
 
 Any changes to this outline will be announced in class, as will the exact date and time of the experiments and in-class quizzes.
 
-Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
+> [!IMPORTANT]
+> Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
 
 ### Module 1 (Giaccherini)
 
