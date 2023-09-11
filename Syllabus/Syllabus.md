@@ -29,7 +29,7 @@ Tuesday, 10.00-12.00 (Room A209, viale Romania)
 Friday, 16.15-17.15 (WebexAPP)
 
 > [!IMPORTANT]
-> Classes will **not** be recorded. Participation is mandatory. Please be punctual!
+> Classes will **not** be recorded. Class attendance is mandatory. Please be punctual!
 
 
 ## 📌 Prerequisites
