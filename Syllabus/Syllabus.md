@@ -26,7 +26,7 @@ Office hours: by appointment
 ## 📌 Classes
 
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
-Friday, 16.15-17.15 (WebexAPP)
+Friday, 16.15-17.15 (Webex)
 
 > [!IMPORTANT]
 > Classes will **not** be recorded. Class attendance is mandatory. Please be punctual!
@@ -54,7 +54,7 @@ A detailed outline of the course is given below. Lectures will combine theory an
 
 ## 📌 Learning assessment and grading
 
-Detailed information about the examination rules and regulations can be found [HERE](Other/FEB_Handbook_2023-24_ENG.pdf).
+Detailed information about the examination rules and regulations can be found [HERE](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Other/FEB_Handbook_2023-24_ENG.pdf).
 
 
 ### Attending students
