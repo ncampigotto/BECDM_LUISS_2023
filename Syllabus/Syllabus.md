@@ -19,7 +19,7 @@ Office hours: by appointment
 
 Veronica Pizziol    
 Email: vpizziol *at* luiss *dot* it     
-Doesn't have office hours
+No office hours
 
 
 ## 📌 Course webpage (Luiss account required)
