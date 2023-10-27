@@ -11,11 +11,15 @@ Email: ncampigotto *at* luiss *dot* it
 Office hours: by appointment
 
 
-## 📌 Teaching assistant
+## 📌 Teaching assistants
 
 Luisa Lorè    
 Email: llore *at* luiss *dot* it     
 Office hours: by appointment
+
+Veronica Pizziol    
+Email: vpizziol *at* luiss *dot* it     
+Doesn't have office hours
 
 
 ## 📌 Course webpage (Luiss account required)
