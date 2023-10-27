@@ -14,7 +14,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
 | 1            | Introduction to behavioral economics        | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Introduction.pdf)           |
 | 2            | Heuristics and biases                       | Giaccherini       | [Download 1](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Heuristics.pdf) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Biases.pdf)           |
-| 3            | Introduction to data analysis with Stata    | Lorè              | To be uploaded           |
+| 3            | Introduction to data analysis with Stata    | Pizziol, Lorè     | [Download 1](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Other/Stata_Notes.pdf) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Other/stata-class.do)           |
 | 4            | Choices with risk                           | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Choices_with_risk.pdf)           |
 | 5            | Intertemporal Choices                       | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Intertemporal_choices.pdf)           |
 | 6            | Student presentations                       | Giaccherini       |                          |
