@@ -195,8 +195,7 @@ Any changes to this outline will be announced in class, as will the exact date a
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
         - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
-        - 🔬 Second experiment
-        - ❓ Third in-class quiz            
+        - 🔬 Second experiment 
 * `[Weeks 9 and 10]` Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
@@ -204,7 +203,7 @@ Any changes to this outline will be announced in class, as will the exact date a
         - °Meyer and Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, no. 102434  
     + *Activities:*  
         - 🔬 Third experiment
-        - ❓ Fourth in-class quiz
+        - ❓ Third in-class quiz
 * `[Week 11]` Nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
@@ -212,8 +211,9 @@ Any changes to this outline will be announced in class, as will the exact date a
         - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489  
     + *Activities:*  
         - 📝 Submission of second assignment
-        - ❓ Fifth in-class quiz
+        - ❓ Fourth in-class quiz
 * `[Week 12]` Student presentations  
     + *Activities:*
         - 📢 Student presentations
+        - ❓ Fifth in-class quiz           
         - 📝 Submission of third assignment
