@@ -193,26 +193,27 @@ Any changes to this outline will be announced in class, as will the exact date a
 * `[Week 8]` Social interactions  
     + *Readings:*  
         - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
-        - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
         - 🔬 Second experiment 
 * `[Weeks 9 and 10]` Social preferences and social comparisons  
     + *Readings:*   
         - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
-        - °Gneezy and Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
-        - °Meyer and Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, no. 102434  
+        - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
     + *Activities:*  
         - 🔬 Third experiment
         - ❓ Third in-class quiz
 * `[Week 11]` Nudges  
     + *Readings:*  
-        - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)  
-        - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
-        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489  
+        - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)
+        - °Gneezy and Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
+        - °Meyer and Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, no. 102434  
     + *Activities:*  
         - 📝 Submission of second assignment
         - ❓ Fourth in-class quiz
-* `[Week 12]` Student presentations  
+* `[Week 12]` Student presentations
+    + *Readings:*  
+        - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
+        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489  
     + *Activities:*
         - 📢 Student presentations
         - ❓ Fifth in-class quiz           
