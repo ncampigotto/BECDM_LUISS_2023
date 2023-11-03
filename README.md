@@ -19,7 +19,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 | 5            | Intertemporal Choices                       | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Intertemporal_choices.pdf)           |
 | 6            | Student presentations                       | Giaccherini       |                          |
 | 7            | Learning                                    | Campigotto        | [Download](https://ncampigotto.github.io/BECDM2324/BECDM_1_2324.html)           |
-| 8            | Social interactions                         | Campigotto        | [Download](https://ncampigotto.github.io/BECDM2324/BECDM_2_2324.html)           |
+| 8            | Social interactions                         | Campigotto        | [Download 1](https://ncampigotto.github.io/BECDM2324/BECDM_2_2324.html) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/quotas.pdf)           |
 | 9 and 10     | Social preferences and social comparisons   | Campigotto        | To be uploaded           |
 | 11           | Nudges                                      | Campigotto        | To be uploaded           |
 | 12           | Student presentations                       | Campigotto        |                          |
