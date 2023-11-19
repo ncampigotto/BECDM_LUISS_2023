@@ -202,7 +202,7 @@ Any changes to this outline will be announced in class, as will the exact date a
     + *Activities:*  
         - 🔬 Third experiment
         - ❓ Third in-class quiz
-* `[Week 11]` Nudges  
+* `[Week 11]` Salience and nudges  
     + *Readings:*  
         - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)
         - °Gneezy and Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
