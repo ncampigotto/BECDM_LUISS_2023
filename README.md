@@ -2,7 +2,7 @@
 
 ### Academic year 2023-24
 
-This repository contains the syllabus, handouts, and data for the course "Behavioural Economics and Consumer Decision Making" (LUISS Guido Carli, Master's degree in Marketing). The repository is under construction and will be updated regularly.
+This repository contains the syllabus, handouts, and data for the course "Behavioural Economics and Consumer Decision Making" (LUISS Guido Carli, Master's degree in Marketing).
 
 > [!IMPORTANT]
 > Please take some time to read the [**SYLLABUS**](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Syllabus/Syllabus.md) carefully and make sure you understand all the course requirements.
@@ -31,7 +31,7 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
 | Assignment 1 |October 22, 2023                               | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/raw/main/Data/1st_exp_becdm2324.dta)    | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Data/1st_experiment_assignment_BECDM2324.pdf)   |
 | Assignment 2 | November 20, 2023                             | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/raw/main/Data/2nd_exp_becdm2324.dta)    | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Data/2nd_experiment_assignment_BECDM2324.pdf)   |
-| Assignment 3 | To be decided                               | To be uploaded    | To be uploaded   |
+| Assignment 3 | December 8, 2023                               | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/raw/main/Data/3rd_exp_becdm2324.dta)    | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Data/3rd_experiment_assignment_BECDM2324.pdf)   |
 
 
 
