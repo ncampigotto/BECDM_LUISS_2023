@@ -162,20 +162,20 @@ Any changes to this outline will be announced in class, as will the exact date a
 
 * `[Week 1]` Introduction to behavioral economics  
     - *Readings:*  
-        + Cartwright, Chapter 1 (Sections TBA)       
+        + Cartwright, Chapter 1       
 * `[Week 2]` Simple heuristics for complex choices  
     + *Readings:*          
-        - Cartwright, Chapter 2 (Sections TBA)            
+        - Cartwright, Chapter 2            
         - °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
     + *Activities:*
         - ❓ First in-class quiz                 
 * `[Week 3]` Introduction to data analysis with Stata (bring your own laptop!)             
 * `[Week 4]` Choices with risk  
     + *Readings:*  
-        - Cartwright, Chapter 3 (Sections TBA)        
+        - Cartwright, Chapter 3        
 * `[Week 5]` Intertemporal Choices  
     + *Readings:*
-        - Cartwright, Chapter 4 (Sections TBA)
+        - Cartwright, Chapter 4
         - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, no. 104039
     + *Activities:*
         - 🔬 First experiment
