@@ -18,11 +18,11 @@ This repository contains the syllabus, handouts, and data for the course "Behavi
 | 4            | Choices with risk                           | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Choices_with_risk.pdf)           |
 | 5            | Intertemporal choices                       | Giaccherini       | [Download](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Intertemporal_choices.pdf)           |
 | 6            | Student presentations                       | Giaccherini       |                          |
-| 7            | Learning                                    | Campigotto        | [Download](https://ncampigotto.github.io/BECDM2324/BECDM_1_2324.html)           |
-| 8            | Social interactions                         | Campigotto        | [Download 1](https://ncampigotto.github.io/BECDM2324/BECDM_2_2324.html) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Voluntary_quotas.pdf)           |
-| 9            | Social preferences                          | Campigotto        | [Download](https://ncampigotto.github.io/BECDM2324/BECDM_3_2324.html)           |
-| 10          | Social comparisons                           | Campigotto        | [Download 1](https://ncampigotto.github.io/BECDM2324/BECDM_4_2324.html) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/challenge.pdf)           |
-| 11           | Salience and nudges                                      | Campigotto        | [Download](https://ncampigotto.github.io/BECDM2324/BECDM_5_2324.html)           |
+| 7            | Learning                                    | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/BECDM_1_2324.html)           |
+| 8            | Social interactions                         | Campigotto        | [Download 1](https://htmlpreview.github.io/?https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/BECDM_2_2324.html) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/Voluntary_quotas.pdf)           |
+| 9            | Social preferences                          | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/BECDM_3_2324.html)           |
+| 10          | Social comparisons                           | Campigotto        | [Download 1](https://htmlpreview.github.io/?https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/BECDM_4_2324.html) [and 2](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/challenge.pdf)           |
+| 11           | Salience and nudges                                      | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Lectures/BECDM_5_2324.html)           |
 | 12           | Student presentations                       | Campigotto        |                          |
 
 
